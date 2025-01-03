@@ -327,7 +327,18 @@
     "レンゲ": "img/student/renge.png",
     "キキョウ": "img/student/kikyou.png",
     "白子(单车)": "img/student/shiroko (cycling).png",
-    "シグレ(温泉)": "img/student/shigure (hot spring).png"
+    "シグレ(温泉)": "img/student/shigure (hot spring).png",
+    "优香(睡衣)": "img/student/yuuka (pajama).png",
+    "诺亚(睡衣)": "img/student/noa (pajama).png",
+    "千秋": "img/student/chiaki.png",
+    "皋月": "img/student/satsuki.png",
+    "妃咲": "img/student/kisaki.png",
+    "丽情": "img/student/reijo.png",
+    "玛丽(偶像)": "img/student/mari (idol).png",
+    "樱子(偶像)": "img/student/sakurako (idol).png",
+    "美祢(偶像)": "img/student/sakurako (idol).png",
+    "巴(旗袍)": "img/student/tomoe (qipao).png",
+    "真里奈(旗袍)": "img/student/marina (qipao).png"
   },
   "time_atk": [
     "img/time_atk/1.png",
