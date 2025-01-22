@@ -338,7 +338,10 @@
     "樱子(偶像)": "img/student/sakurako (idol).png",
     "美祢(偶像)": "img/student/sakurako (idol).png",
     "巴(旗袍)": "img/student/tomoe (qipao).png",
-    "真里奈(旗袍)": "img/student/marina (qipao).png"
+    "真里奈(旗袍)": "img/student/marina (qipao).png",
+    "圣娅": "img/student/seia.png",
+    "明日奈(制服)": "img/student/asuna (uniform).png",
+    "花凛(制服)": "img/student/karin (uniform).png"
   },
   "time_atk": [
     "img/time_atk/1.png",
