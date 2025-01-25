@@ -55,20 +55,24 @@
       "pool":[10112]
     },
     {
-      "name": "忠言逆耳，利于突击 真里奈",
-      "pool":[10037]
+      "name": "She awoke from a dream and became a true hero. 星野（临战）",
+      "pool":[10098]
     },
     {
-      "name": "今日晴转垮台，部分地区有骚乱 切里诺",
-      "pool":[10017]
+      "name": "She pushes onward for taht which stays constant. 白子＊恐怖",
+      "pool":[10100]
     },
     {
-      "name": "少女之梦，终有绽放之日 三森",
-      "pool":[10034]
+      "name": "Fest Recruitment 未花",
+      "pool":[10059]
     },
     {
-      "name": "庆典乐声响，难掩相思意 泉奈、静子",
-      "pool":[10014,23006]
+      "name": "女仆勇者会梦见仙境 爱丽丝（女仆）",
+      "pool":[10066]
+    },
+    {
+      "name": "迟到兔兔的秘密王牌 时（邦妮）",
+      "pool":[10067]
     }
   ]
 }
