@@ -1,7 +1,7 @@
 {
   "base": {
     "3": {
-      "chance": 5,
+      "chance": 2.5,
       "char": [
         10000, 10001, 10002, 10003, 10004, 10005, 10006, 10007, 10008, 10009,
         10010, 10011, 10012, 10013, 10014, 10015, 10016, 10017, 10018, 10019,
@@ -26,7 +26,7 @@
       ]
     },
     "1": {
-      "chance": 76.5,
+      "chance": 79.0,
       "char": [
         16000, 16001, 16002, 16003, 16004, 26000, 26001, 26002, 26003, 26004,
         26005
@@ -47,24 +47,20 @@
       "pool": []
     },
     {
-      "name": "合理主義者はかく語れり 莉音",
-      "pool": [20041]
+      "name": "心(こころ)躍(おど)る予想(よそう)の可用性 日鞠",
+      "pool": [20020]
     },
     {
-      "name": "自由主義者はとく駆けり 尼露（制服）",
-      "pool":[10111]
+      "name": "涼(すず)やかなる夢想(むそう)の可能(かのう)性 艾米（冬泳）",
+      "pool":[20032]
     },
     {
-      "name": "She awoke from a dream and became a true hero. 星野（临战）",
-      "pool":[10098]
+      "name": "As expected, life is a burden...! 日和（泳装）",
+      "pool":[10102]
     },
     {
-      "name": "She pushes onward for taht which stays constant. 白子＊恐怖",
-      "pool":[10100]
-    },
-    {
-      "name": "Fest Recruitment 未花",
-      "pool":[10059]
+      "name": "There you are. I'll always give everything I have to the job. 纱织（泳装）",
+      "pool":[10101]
     },
     {
       "name": "女仆勇者会梦见仙境 爱丽丝（女仆）",
