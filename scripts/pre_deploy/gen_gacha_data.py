@@ -16,8 +16,10 @@ BASE_DICT = {
 
 
 async def main():
-    stu_li = cast(dict, await schale_get_stu_data(raw=True))
-    stu_dict = {x["Id"]: x for x in stu_li}
+    # 获取学生数据，现在是字典格式而不是列表
+    stu_dict = cast(dict, await schale_get_stu_data(raw=True))
+    # 创建学生列表，方便后续处理
+    stu_li = list(stu_dict.values())
 
     # region base
     star3 = []
@@ -28,7 +30,8 @@ async def main():
         s_id = i["Id"]
         s_name = i["Name"]
         star_grade = i["StarGrade"]
-        limited = i["IsLimited"]
+        # 检查是否存在 IsLimited 字段，如果不存在默认为 0
+        limited = i.get("IsLimited", 0)
         if not limited:
             if star_grade == 3:
                 star3.append(s_id)
@@ -70,12 +73,13 @@ async def main():
                 continue
 
             characters = gacha["characters"]
+            # 使用新的字典结构获取角色数据
             three_star: List[dict] = [
-                stu_dict[x] for x in characters if stu_dict[x]["StarGrade"] == 3
+                stu_dict[str(x)] for x in characters if stu_dict[str(x)]["StarGrade"] == 3
             ]
             three_star_ids = [x["Id"] for x in three_star]
             others: List[dict] = [
-                stu_dict[x] for x in characters if x not in three_star_ids
+                stu_dict[str(x)] for x in characters if x not in three_star_ids
             ]
 
             for up in three_star:
