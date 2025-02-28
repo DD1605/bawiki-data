@@ -25,6 +25,11 @@ async def main():
     star3 = []
     star2 = []
     star1 = []
+    
+    # 存储所有常驻角色的ID
+    permanent_pool = []
+    # 限定池角色ID列表
+    limited_pool = []
 
     for i in stu_li:
         s_id = i["Id"]
@@ -39,6 +44,11 @@ async def main():
                 star2.append(s_id)
             elif star_grade == 1:
                 star1.append(s_id)
+            
+            # 将限定角色添加到限定池
+        else:
+            limited_pool.append(s_id)
+            
 
         print(
             f'gacha: {star_grade}星{"[限定]" if limited else " 常驻 "}：({s_id}) {s_name}',
@@ -47,6 +57,7 @@ async def main():
     star3.sort()
     star2.sort()
     star1.sort()
+    limited_pool.sort()
 
     BASE_DICT["3"]["char"] = star3
     BASE_DICT["2"]["char"] = star2
@@ -60,7 +71,17 @@ async def main():
         "Cn": "国服",
     }
 
-    pools = []
+    # 初始化卡池列表，添加常驻池和限定池
+    pools = [
+        {
+            "name": "常驻池",
+            "pool": permanent_pool
+        },
+        {
+            "name": "限定池",
+            "pool": limited_pool
+        }
+    ]
 
     common_data = cast(dict, await schale_get("data/config.min.json"))
     regions: List[dict] = common_data["Regions"]
