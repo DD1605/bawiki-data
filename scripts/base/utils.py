@@ -39,7 +39,7 @@ async def schale_get_stu_data(
     raw: bool = False,
 ) -> Union[dict[str, dict], list[dict]]:
     r = await schale_get(f"data/{locale}/students.min.json")
-    return r if raw else {x[key]: x for x in r}
+    return r if raw else {v[key]: v for v in r.values()}
 
 
 async def game_kee_req(
