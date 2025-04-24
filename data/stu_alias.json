@@ -1,4 +1,22 @@
 {
+  "ヒカリ": [
+    "ヒカリ",
+    "hikari",
+    "tachibana hikari",
+    "橘ヒカリ"
+  ],
+  "ノゾミ": [
+    "ノゾミ",
+    "nozomi",
+    "tachibana nozomi",
+    "橘ノゾミ"
+  ],
+  "アオバ": [
+    "アオバ",
+    "aoba",
+    "utsumi aoba",
+    "内海アオバ"
+  ],
   "サオリ(ドレス)": [
     "サオリ(ドレス)",
     "joumae saori (dress)",
@@ -1189,7 +1207,9 @@
   "玛丽(偶像)": [
     "マリー(アイドル)",
     "iochi mari (idol)",
+    "iochi mari (pop idol)",
     "mari (idol)",
+    "mari (pop idol)",
     "爱玛",
     "玛丽(偶像)",
     "玛丽偶像",
@@ -1252,7 +1272,9 @@
   "美祢(偶像)": [
     "ミネ(アイドル)",
     "aomori mine (idol)",
+    "aomori mine (pop idol)",
     "mine (idol)",
+    "mine (pop idol)",
     "苍森美祢(偶像)",
     "蒼森ミネ(アイドル)",
     "美弥偶像",
@@ -2836,7 +2858,9 @@
   "樱子(偶像)": [
     "サクラコ(アイドル)",
     "sakurako (idol)",
+    "sakurako (pop idol)",
     "utazumi sakurako (idol)",
+    "utazumi sakurako (pop idol)",
     "歌住樱子(偶像)",
     "歌住サクラコ(アイドル)",
     "偶像sakurako",
