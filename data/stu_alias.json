@@ -1,4 +1,22 @@
 {
+  "セイア(水着)": [
+    "セイア(水着)",
+    "seia (swimsuit)",
+    "yurizono seia (swimsuit)",
+    "百合園セイア(水着)"
+  ],
+  "ハスミ(水着)": [
+    "ハスミ(水着)",
+    "hanekawa hasumi (swimsuit)",
+    "hasumi (swimsuit)",
+    "羽川ハスミ(水着)"
+  ],
+  "イチカ(水着)": [
+    "イチカ(水着)",
+    "ichika (swimsuit)",
+    "nakamasa ichika (swimsuit)",
+    "仲正イチカ(水着)"
+  ],
   "阿露(礼服)": [
     "アル(ドレス)",
     "aru (dress)",
@@ -778,7 +796,9 @@
   ],
   "花凛(制服)": [
     "カリン(制服)",
+    "kakudate karin (school)",
     "kakudate karin (uniform)",
+    "karin (school)",
     "karin (uniform)",
     "角楯カリン(制服)",
     "角楯花凛(制服)",
@@ -1416,7 +1436,9 @@
   ],
   "明日奈(制服)": [
     "アスナ(制服)",
+    "asuna (school)",
     "asuna (uniform)",
+    "ichinose asuna (school)",
     "ichinose asuna (uniform)",
     "一之濑明日奈(制服)",
     "一之瀬アスナ(制服)",
@@ -1524,7 +1546,9 @@
   ],
   "妮露(制服)": [
     "ネル(制服)",
+    "mikamo neru (school)",
     "mikamo neru (uniform)",
+    "neru (school)",
     "neru (uniform)",
     "美甘ネル(制服)",
     "美甘妮露(制服)",
