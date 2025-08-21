@@ -1,16 +1,4 @@
 {
-  "エリ": [
-    "エリ",
-    "eri",
-    "shirao eri",
-    "白尾エリ"
-  ],
-  "カノエ": [
-    "カノエ",
-    "itagaki kanoe",
-    "kanoe",
-    "板垣カノエ"
-  ],
   "阿露(礼服)": [
     "アル(ドレス)",
     "aru (dress)",
@@ -943,9 +931,7 @@
   "堇(打工)": [
     "スミレ(アルバイト)",
     "otohana sumire (part-time job)",
-    "otohana sumire (part-timer)",
     "sumire (part-time job)",
-    "sumire (part-timer)",
     "打工sumire",
     "打工スミレ",
     "打工堇",
@@ -3227,9 +3213,7 @@
   "朱莉(打工)": [
     "ジュリ(アルバイト)",
     "juri (part-time job)",
-    "juri (part-timer)",
     "ushimaki juri (part-time job)",
-    "ushimaki juri (part-timer)",
     "打工juri",
     "打工ジュリ",
     "打工料理姐",
