@@ -35,9 +35,9 @@ async def main():
         s_id = i["Id"]
         s_name = i["Name"]
         star_grade = i["StarGrade"]
-        # 检查是否存在 IsLimited 字段，如果不存在默认为 0
+        # 按照 IsLimited 字段的值进行分类
         limited = i.get("IsLimited", 0)
-        if not limited:
+        if limited[2] == 0:
             if star_grade == 3:
                 star3.append(s_id)
             elif star_grade == 2:
@@ -51,7 +51,7 @@ async def main():
             
 
         print(
-            f'gacha: {star_grade}星{"[限定]" if limited else " 常驻 "}：({s_id}) {s_name}',
+            f'gacha: {star_grade}星{"[限定]" if limited[2] else " 常驻 "}：({s_id}) {s_name}',
         )
 
     star3.sort()
