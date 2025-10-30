@@ -58,6 +58,17 @@ async def game_kee_req(
         raise ConnectionError(ret["msg"])
     return ret["data"]
 
+# async def game_kee_request(url: str, **kwargs: Unpack[AsyncReqKwargs]) -> Any:
+#     kwargs["base_urls"] = config.ba_gamekee_url
+
+#     headers = kwargs.get("headers") or {}
+#     headers.update({"Game-Id": "829", "Game-Alias": "ba"})
+#     kwargs["headers"] = headers
+
+#     resp = await async_req(url, **kwargs)
+#     if resp["code"] != 0:
+#         raise ValueError(resp["msg"])
+#     return resp["data"]
 
 def replace_brackets(s: str):
     return s.replace("（", "(").replace("）", ")")
