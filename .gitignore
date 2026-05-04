@@ -6,3 +6,7 @@ __pycache__/
 *.egg-info
 pdm.lock
 .pdm-python
+data/schale_to_gamekee_temp.json
+entry.json
+scripts/tools/merge_schale_mapping.py
+scripts/tools/save_gamekee_stu_list.py
