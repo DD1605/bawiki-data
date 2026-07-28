@@ -258,6 +258,19 @@ Pick-Up 0.7%，其他已实装 Fes 限定角色组成总计 0.9% 的
 python -m scripts.pre_deploy.gen_student_id_map
 ```
 
+`gacha.json` 不会在默认预部署流程中自动覆盖。需要重新按 SchaleDB 生成
+卡池数据时，手动运行：
+
+```bash
+python -m scripts.pre_deploy.gen_gacha_data
+```
+
+或者在全量预部署时显式开启：
+
+```bash
+BAWIKI_UPDATE_GACHA=1 python -m scripts.pre_deploy
+```
+
 ```jsonc
 {
   "10000": {

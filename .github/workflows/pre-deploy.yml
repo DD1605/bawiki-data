@@ -4,8 +4,15 @@ on:
   push:
     branches: ['main']
   schedule:
-    - cron: '0 8 * * *'
+    # 04:00 Asia/Shanghai
+    - cron: '0 20 * * *'
   workflow_dispatch:
+    inputs:
+      update_gacha:
+        description: 'Regenerate data/gacha.json'
+        required: false
+        default: false
+        type: boolean
 
 permissions: write-all
 
@@ -32,7 +39,12 @@ jobs:
       - name: Install Dependencies
         run: pdm install -G:all
       - name: Run pre-deploy.sh
-        run: pdm run sh scripts/pre-deploy.sh
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.update_gacha }}" = "true" ]; then
+            BAWIKI_UPDATE_GACHA=1 pdm run sh scripts/pre-deploy.sh
+          else
+            pdm run sh scripts/pre-deploy.sh
+          fi
       - name: Format with Prettier
         run: prettier -c -w .
       - name: Commit changes

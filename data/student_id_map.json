@@ -3,4005 +3,1869 @@
     "name": "爱露",
     "star": 3,
     "path": "aru",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10001": {
     "name": "艾米",
     "star": 3,
     "path": "eimi",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10002": {
     "name": "晴奈",
     "star": 3,
     "path": "haruna",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10003": {
     "name": "日富美",
     "star": 3,
     "path": "hifumi",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10004": {
     "name": "日奈",
     "star": 3,
     "path": "hina",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10005": {
     "name": "星野",
     "star": 3,
     "path": "hoshino",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10006": {
     "name": "伊织",
     "star": 3,
     "path": "iori",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10007": {
     "name": "真纪",
     "star": 3,
     "path": "maki",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10008": {
     "name": "妮露",
     "star": 3,
     "path": "neru",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10009": {
     "name": "泉",
     "star": 3,
     "path": "izumi",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10010": {
     "name": "白子",
     "star": 3,
     "path": "shiroko",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10011": {
     "name": "瞬",
     "star": 3,
     "path": "shun",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10012": {
     "name": "堇",
     "star": 3,
     "path": "sumire",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10013": {
     "name": "鹤城",
     "star": 3,
     "path": "tsurugi",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10014": {
     "name": "泉奈",
     "star": 3,
     "path": "izuna",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10015": {
     "name": "爱丽丝",
     "star": 3,
     "path": "aris",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10016": {
     "name": "绿",
     "star": 3,
     "path": "midori",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10017": {
     "name": "切里诺",
     "star": 3,
     "path": "cherino",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10018": {
     "name": "柚子",
     "star": 3,
     "path": "yuzu",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10019": {
     "name": "梓",
     "star": 3,
     "path": "azusa",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10020": {
     "name": "小春",
     "star": 3,
     "path": "koharu",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10021": {
     "name": "梓（泳装）",
     "star": 3,
     "path": "azusa_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10022": {
     "name": "日奈（泳装）",
     "star": 3,
     "path": "hina_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10023": {
     "name": "伊织（泳装）",
     "star": 3,
     "path": "iori_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10024": {
     "name": "白子（骑行）",
     "star": 3,
     "path": "shiroko_cycling",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10025": {
     "name": "瞬（小）",
     "star": 3,
     "path": "shun_small",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10026": {
     "name": "妮露（邦妮）",
     "star": 3,
     "path": "neru_bunnygirl",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10027": {
     "name": "花凛（邦妮）",
     "star": 3,
     "path": "karin_bunnygirl",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10028": {
     "name": "明日奈（邦妮）",
     "star": 3,
     "path": "asuna_bunnygirl",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10029": {
     "name": "夏",
     "star": 3,
     "path": "natsu",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10030": {
     "name": "千夏（温泉）",
     "star": 3,
     "path": "chinatsu_onsen",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "10031": {
     "name": "爱露（新年）",
     "star": 3,
     "path": "aru_newyear",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10032": {
     "name": "睦月（新年）",
     "star": 3,
     "path": "mutsuki_newyear",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10033": {
     "name": "若藻",
     "star": 3,
     "path": "wakamo",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10034": {
     "name": "三森",
     "star": 3,
     "path": "mimori",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10035": {
     "name": "忧",
     "star": 3,
     "path": "ui",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10036": {
     "name": "日向",
     "star": 3,
     "path": "hinata",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10037": {
     "name": "真里奈",
     "star": 3,
     "path": "marina",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10038": {
     "name": "宫子",
     "star": 3,
     "path": "miyako",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10039": {
     "name": "美游",
     "star": 3,
     "path": "miyu",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10040": {
     "name": "月咏",
     "star": 3,
     "path": "tsukuyo",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10041": {
     "name": "美咲",
     "star": 3,
     "path": "misaki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10042": {
     "name": "亚津子",
     "star": 3,
     "path": "atsuko",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10043": {
     "name": "若藻（泳装）",
     "star": 3,
     "path": "wakamo_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10044": {
     "name": "野宫（泳装）",
     "star": 3,
     "path": "nonomi_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10045": {
     "name": "星野（泳装）",
     "star": 3,
     "path": "hoshino_swimsuit",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10046": {
     "name": "泉奈（泳装）",
     "star": 3,
     "path": "izuna_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10047": {
     "name": "千世（泳装）",
     "star": 3,
     "path": "chise_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10048": {
     "name": "纱织",
     "star": 3,
     "path": "saori",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10049": {
     "name": "和纱",
     "star": 3,
     "path": "kazusa",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10050": {
     "name": "心奈",
     "star": 3,
     "path": "kokona",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10051": {
     "name": "歌原（应援团）",
     "star": 3,
     "path": "utaha_cheerleader",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10052": {
     "name": "诺亚",
     "star": 3,
     "path": "noa",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10053": {
     "name": "优香（体操服）",
     "star": 3,
     "path": "yuuka_track",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10054": {
     "name": "玛丽（体操服）",
     "star": 3,
     "path": "mari_track",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10055": {
     "name": "时雨",
     "star": 3,
     "path": "shigure",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10056": {
     "name": "芹娜（圣诞）",
     "star": 3,
     "path": "serina_christmas",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10057": {
     "name": "晴奈（新年）",
     "star": 3,
     "path": "haruna_newyear",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10058": {
     "name": "美祢",
     "star": 3,
     "path": "mine",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10059": {
     "name": "未花",
     "star": 3,
     "path": "mika",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10060": {
     "name": "惠",
     "star": 3,
     "path": "megu",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10061": {
     "name": "樱子",
     "star": 3,
     "path": "sakurako",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10062": {
     "name": "时",
     "star": 3,
     "path": "toki",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10063": {
     "name": "小雪",
     "star": 3,
     "path": "koyuki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10064": {
     "name": "佳代子（新年）",
     "star": 3,
     "path": "kayoko_newyear",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10065": {
     "name": "果穗",
     "star": 3,
     "path": "kaho",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10066": {
     "name": "爱丽丝（女仆）",
     "star": 3,
     "path": "aris_maid",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10067": {
     "name": "时（邦妮）",
     "star": 3,
     "path": "toki_bunnygirl",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10068": {
     "name": "玲纱",
     "star": 3,
     "path": "reisa",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10069": {
     "name": "瑠海",
     "star": 3,
     "path": "rumi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10070": {
     "name": "南",
     "star": 3,
     "path": "mina",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10071": {
     "name": "宫子（泳装）",
     "star": 3,
     "path": "miyako_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10072": {
     "name": "咲（泳装）",
     "star": 3,
     "path": "saki_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10073": {
     "name": "忧（泳装）",
     "star": 3,
     "path": "ui_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10074": {
     "name": "花子（泳装）",
     "star": 3,
     "path": "hanako_swimsuit",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10075": {
     "name": "芽瑠",
     "star": 3,
     "path": "meru",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10076": {
     "name": "琴里（应援团）",
     "star": 3,
     "path": "kotori_cheerleader",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10077": {
     "name": "一花",
     "star": 3,
     "path": "ichika",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10078": {
     "name": "霞",
     "star": 3,
     "path": "kasumi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10079": {
     "name": "御坂美琴",
     "star": 3,
     "path": "misaka_mikoto",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10080": {
     "name": "食蜂操祈",
     "star": 3,
     "path": "shokuhou_misaki",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10081": {
     "name": "紫",
     "star": 3,
     "path": "yukari",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10082": {
     "name": "莲华",
     "star": 3,
     "path": "renge",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10083": {
     "name": "桔梗",
     "star": 3,
     "path": "kikyou",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10084": {
     "name": "小玉（露营）",
     "star": 3,
     "path": "kotama_camp",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10085": {
     "name": "晴（露营）",
     "star": 3,
     "path": "hare_camp",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10086": {
     "name": "日奈（礼服）",
     "star": 3,
     "path": "hina_dress",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10087": {
     "name": "亚子（礼服）",
     "star": 3,
     "path": "ako_dress",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10088": {
     "name": "佳代子（礼服）",
     "star": 3,
     "path": "kayoko_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10089": {
     "name": "爱露（礼服）",
     "star": 3,
     "path": "aru_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10090": {
     "name": "海香",
     "star": 3,
     "path": "umika",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10091": {
     "name": "和纱（乐队）",
     "star": 3,
     "path": "kazusa_band",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10092": {
     "name": "好美（乐队）",
     "star": 3,
     "path": "yoshimi_band",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10093": {
     "name": "绮罗罗",
     "star": 3,
     "path": "kirara",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10094": {
     "name": "桃（女仆）",
     "star": 3,
     "path": "momoi_maid",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10095": {
     "name": "绿（女仆）",
     "star": 3,
     "path": "midori_maid",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10096": {
     "name": "康娜（泳装）",
     "star": 3,
     "path": "kanna_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10097": {
     "name": "萌绘（泳装）",
     "star": 3,
     "path": "moe_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10098": {
     "name": "星野（武装）",
     "star": 3,
     "path": "hoshino_battle_tank",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10099": {
     "name": "星野（武装）",
     "star": 3,
     "path": "hoshino_battle_dealer",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, false]
   },
   "10100": {
     "name": "白子＊恐怖",
     "star": 3,
     "path": "shiroko_terror",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10101": {
     "name": "纱织（泳装）",
     "star": 3,
     "path": "saori_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10102": {
     "name": "日和（泳装）",
     "star": 3,
     "path": "hiyori_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10103": {
     "name": "真里奈（旗袍）",
     "star": 3,
     "path": "marina_qipao",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10104": {
     "name": "丽情",
     "star": 3,
     "path": "reijo",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10105": {
     "name": "玛丽（偶像）",
     "star": 3,
     "path": "mari_idol",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10106": {
     "name": "樱子（偶像）",
     "star": 3,
     "path": "sakurako_idol",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10107": {
     "name": "千明",
     "star": 3,
     "path": "chiaki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10108": {
     "name": "优香（睡衣）",
     "star": 3,
     "path": "yuuka_pajama",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10109": {
     "name": "诺亚（睡衣）",
     "star": 3,
     "path": "noa_pajama",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "10110": {
     "name": "圣娅",
     "star": 3,
     "path": "seia",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10111": {
     "name": "妮露（制服）",
     "star": 3,
     "path": "neru_uniform",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "10112": {
     "name": "明日奈（制服）",
     "star": 3,
     "path": "asuna_uniform",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "10113": {
     "name": "濑名（便服）",
     "star": 3,
     "path": "sena_casual",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10114": {
     "name": "朱莉（打工）",
     "star": 3,
     "path": "juri_parttime",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10115": {
     "name": "丽",
     "star": 3,
     "path": "rei",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10116": {
     "name": "纱织（礼服）",
     "star": 3,
     "path": "saori_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10117": {
     "name": "光",
     "star": 3,
     "path": "hikari",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "10118": {
     "name": "望",
     "star": 3,
     "path": "nozomi",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "10119": {
     "name": "名草",
     "star": 3,
     "path": "nagusa",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10120": {
     "name": "夏（乐队）",
     "star": 3,
     "path": "natsu_band",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10121": {
     "name": "紫（泳装）",
     "star": 3,
     "path": "yukari_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10122": {
     "name": "未花（泳装）",
     "star": 3,
     "path": "mika_swimsuit",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, false]
   },
   "10123": {
     "name": "圣娅（泳装）",
     "star": 3,
     "path": "seia_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "10124": {
     "name": "莲见（泳装）",
     "star": 3,
     "path": "hasumi_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "10125": {
     "name": "绘里",
     "star": 3,
     "path": "eri",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10126": {
     "name": "庚",
     "star": 3,
     "path": "kanoe",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10127": {
     "name": "美代",
     "star": 3,
     "path": "miyo",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10128": {
     "name": "冬",
     "star": 3,
     "path": "fuyu",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10129": {
     "name": "铃美（魔法）",
     "star": 3,
     "path": "suzumi_magical",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "10130": {
     "name": "昴",
     "star": 3,
     "path": "subaru",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10131": {
     "name": "贵音",
     "star": 3,
     "path": "takane",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10132": {
     "name": "月咏（礼服）",
     "star": 3,
     "path": "tsukuyo_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10133": {
     "name": "莉音（武装）",
     "star": 3,
     "path": "rio_battle",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "10134": {
     "name": "爱丽丝（武装）",
     "star": 3,
     "path": "aris_battle",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, false]
   },
   "10135": {
     "name": "柯伊",
     "star": 3,
     "path": "kei",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, false]
   },
   "10136": {
     "name": "艾米（武装）",
     "star": 3,
     "path": "eimi_battle",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "10137": {
     "name": "木乃香",
     "star": 3,
     "path": "konoka",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "10138": {
     "name": "丽奈",
     "star": 3,
     "path": "rena",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "10139": {
     "name": "妮可",
     "star": 3,
     "path": "niko",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
   },
   "10140": {
     "name": "胡桃",
     "star": 3,
     "path": "kurumi",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
   },
   "10141": {
     "name": "春香（礼服）",
     "star": 3,
     "path": "haruka_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "10142": {
     "name": "名草（泳装）",
     "star": 3,
     "path": "nagusa_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "10143": {
     "name": "瞬（泳装）",
     "star": 3,
     "path": "shun_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "10144": {
     "name": "瞬（泳装）",
     "star": 3,
     "path": "shunling_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "10145": {
     "name": "妃咲（泳装）",
     "star": 3,
     "path": "kisaki_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "13000": {
     "name": "茜",
     "star": 2,
     "path": "akane",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13001": {
     "name": "千世",
     "star": 2,
     "path": "chise",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13002": {
     "name": "明里",
     "star": 2,
     "path": "akari",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13003": {
     "name": "莲见",
     "star": 2,
     "path": "hasumi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13004": {
     "name": "野宫",
     "star": 2,
     "path": "nonomi",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "13005": {
     "name": "佳代子",
     "star": 2,
     "path": "kayoko",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13006": {
     "name": "睦月",
     "star": 2,
     "path": "mutsuki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13007": {
     "name": "纯子",
     "star": 2,
     "path": "junko",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13008": {
     "name": "芹香",
     "star": 2,
     "path": "serika",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13009": {
     "name": "椿",
     "star": 2,
     "path": "tsubaki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13010": {
     "name": "优香",
     "star": 2,
     "path": "yuuka",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13011": {
     "name": "桃",
     "star": 2,
     "path": "momoi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13012": {
     "name": "桐乃",
     "star": 2,
     "path": "kirino",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13013": {
     "name": "红叶",
     "star": 2,
     "path": "momiji",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "13014": {
     "name": "莲华（泳装）",
     "star": 2,
     "path": "renge_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "16000": {
     "name": "春香",
     "star": 1,
     "path": "haruka",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "16001": {
     "name": "明日奈",
     "star": 1,
     "path": "asuna",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "16002": {
     "name": "琴里",
     "star": 1,
     "path": "kotori",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "16003": {
     "name": "铃美",
     "star": 1,
     "path": "suzumi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "16004": {
     "name": "菲娜",
     "star": 1,
     "path": "pina",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "16005": {
     "name": "鹤城（泳装）",
     "star": 1,
     "path": "tsurugi_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16006": {
     "name": "泉（泳装）",
     "star": 1,
     "path": "izumi_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16007": {
     "name": "巴",
     "star": 1,
     "path": "tomoe",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16008": {
     "name": "吹雪",
     "star": 1,
     "path": "fubuki",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16009": {
     "name": "满",
     "star": 1,
     "path": "michiru",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16010": {
     "name": "响（应援团）",
     "star": 1,
     "path": "hibiki_cheerleader",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16011": {
     "name": "莲见（体操服）",
     "star": 1,
     "path": "hasumi_track",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16012": {
     "name": "纯子（新年）",
     "star": 1,
     "path": "junko_newyear",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16013": {
     "name": "小春（泳装）",
     "star": 1,
     "path": "koharu_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16014": {
     "name": "伊吹",
     "star": 1,
     "path": "ibuki",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16015": {
     "name": "爱理（乐队）",
     "star": 1,
     "path": "airi_band",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16016": {
     "name": "美祢（偶像）",
     "star": 1,
     "path": "mine_idol",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "16017": {
     "name": "青叶",
     "star": 1,
     "path": "aoba",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, false]
   },
   "16018": {
     "name": "兰舞",
     "star": 1,
     "path": "rabu",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, false]
   },
   "16019": {
     "name": "时（武装）",
     "star": 1,
     "path": "toki_battle",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, false]
   },
   "16020": {
     "name": "御伽",
     "star": 1,
     "path": "otogi",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, false, false]
   },
   "20000": {
     "name": "响",
     "star": 3,
     "path": "hibiki",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20001": {
     "name": "花凛",
     "star": 3,
     "path": "karin",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20002": {
     "name": "纱绫",
     "star": 3,
     "path": "saya",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20003": {
     "name": "真白",
     "star": 3,
     "path": "mashiro",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20004": {
     "name": "真白（泳装）",
     "star": 3,
     "path": "mashiro_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "20005": {
     "name": "日富美（泳装）",
     "star": 3,
     "path": "hifumi_swimsuit",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20006": {
     "name": "纱绫（便服）",
     "star": 3,
     "path": "saya_casual",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20007": {
     "name": "初音未来",
     "star": 3,
     "path": "hatsune_miku",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "20008": {
     "name": "亚子",
     "star": 3,
     "path": "ako",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20009": {
     "name": "切里诺（温泉）",
     "star": 3,
     "path": "cherino_onsen",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20010": {
     "name": "和香（温泉）",
     "star": 3,
     "path": "nodoka_onsen",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20011": {
     "name": "芹香（新年）",
     "star": 3,
     "path": "serika_newyear",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20012": {
     "name": "濑名",
     "star": 3,
     "path": "sena",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20013": {
     "name": "千寻",
     "star": 3,
     "path": "chihiro",
-    "is_limited": [
-      4,
-      4,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true]
   },
   "20014": {
     "name": "咲",
     "star": 3,
     "path": "saki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20015": {
     "name": "枫",
     "star": 3,
     "path": "kaede",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20016": {
     "name": "伊吕波",
     "star": 3,
     "path": "iroha",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20017": {
     "name": "日和",
     "star": 3,
     "path": "hiyori",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20018": {
     "name": "萌绘",
     "star": 3,
     "path": "moe",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20019": {
     "name": "茜（邦妮）",
     "star": 3,
     "path": "akane_bunnygirl",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20020": {
     "name": "日鞠",
     "star": 3,
     "path": "himari",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20021": {
     "name": "花江（圣诞）",
     "star": 3,
     "path": "hanae_christmas",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20022": {
     "name": "风香（新年）",
     "star": 3,
     "path": "fuuka_newyear",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "20023": {
     "name": "康娜",
     "star": 3,
     "path": "kanna",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20024": {
     "name": "渚",
     "star": 3,
     "path": "nagisa",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "20025": {
     "name": "春香（新年）",
     "star": 3,
     "path": "haruka_newyear",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20026": {
     "name": "实梨",
     "star": 3,
     "path": "minori",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20027": {
     "name": "白子（泳装）",
     "star": 3,
     "path": "shiroko_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20028": {
     "name": "日向（泳装）",
     "star": 3,
     "path": "hinata_swimsuit",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "20029": {
     "name": "三森（泳装）",
     "star": 3,
     "path": "mimori_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20030": {
     "name": "晴奈（体操服）",
     "star": 3,
     "path": "haruna_track",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20031": {
     "name": "时雨（温泉）",
     "star": 3,
     "path": "shigure_onsen",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20032": {
     "name": "艾米（泳装）",
     "star": 3,
     "path": "eimi_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20033": {
     "name": "真琴",
     "star": 3,
     "path": "makoto",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, true]
   },
   "20034": {
     "name": "明里（新年）",
     "star": 3,
     "path": "akari_newyear",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20035": {
     "name": "椿（导游）",
     "star": 3,
     "path": "tsubaki_guide",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20036": {
     "name": "芹香（泳装）",
     "star": 3,
     "path": "serika_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20037": {
     "name": "吹雪（泳装）",
     "star": 3,
     "path": "fubuki_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20038": {
     "name": "巴（旗袍）",
     "star": 3,
     "path": "tomoe_qipao",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20039": {
     "name": "妃咲",
     "star": 3,
     "path": "kisaki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20040": {
     "name": "皋月",
     "star": 3,
     "path": "satsuki",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20041": {
     "name": "莉音",
     "star": 3,
     "path": "rio",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, true]
   },
   "20042": {
     "name": "真纪（露营）",
     "star": 3,
     "path": "maki_camp",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "20043": {
     "name": "泉（正月）",
     "star": 3,
     "path": "izumi_newyear",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20044": {
     "name": "堇（打工）",
     "star": 3,
     "path": "sumire_parttime",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20045": {
     "name": "菲娜（导游）",
     "star": 3,
     "path": "pina_guide",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20046": {
     "name": "尼娅",
     "star": 3,
     "path": "niya",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20047": {
     "name": "桔梗（泳装）",
     "star": 3,
     "path": "kikyou_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20048": {
     "name": "渚（泳装）",
     "star": 3,
     "path": "nagisa_swimsuit",
-    "is_limited": [
-      3,
-      3,
-      3
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [3, 3, 3],
+    "is_released": [true, true, false]
   },
   "20049": {
     "name": "美咲（泳装）",
     "star": 3,
     "path": "misaki_swimsuit",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20050": {
     "name": "律",
     "star": 3,
     "path": "ritsu",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20051": {
     "name": "玲纱（魔法）",
     "star": 3,
     "path": "reisa_magical",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "20052": {
     "name": "八云",
     "star": 3,
     "path": "yakumo",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20053": {
     "name": "满（礼服）",
     "star": 3,
     "path": "michiru_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20054": {
     "name": "日鞠（武装）",
     "star": 3,
     "path": "himari_battle",
-    "is_limited": [
-      1,
-      1,
-      1
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [1, 1, 1],
+    "is_released": [true, true, false]
   },
   "20055": {
     "name": "柚子（武装）",
     "star": 3,
     "path": "yuzu_battle",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, false]
   },
   "20056": {
     "name": "小雪（睡衣）",
     "star": 3,
     "path": "koyuki_pajama",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "20057": {
     "name": "茜（制服）",
     "star": 3,
     "path": "akane_uniform",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "20058": {
     "name": "绘梨香",
     "star": 3,
     "path": "erika",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "20059": {
     "name": "睦月（礼服）",
     "star": 3,
     "path": "mutsuki_dress",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      false,
-      false
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
   },
   "23000": {
     "name": "爱理",
     "star": 2,
     "path": "airi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23001": {
     "name": "风香",
     "star": 2,
     "path": "fuuka",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23002": {
     "name": "花江",
     "star": 2,
     "path": "hanae",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23003": {
     "name": "晴",
     "star": 2,
     "path": "hare",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23004": {
     "name": "歌原",
     "star": 2,
     "path": "utaha",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23005": {
     "name": "绫音",
     "star": 2,
     "path": "ayane",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23006": {
     "name": "静子",
     "star": 2,
     "path": "shizuko",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23007": {
     "name": "花子",
     "star": 2,
     "path": "hanako",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "23008": {
     "name": "玛丽",
     "star": 2,
     "path": "mari",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26000": {
     "name": "千夏",
     "star": 1,
     "path": "chinatsu",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26001": {
     "name": "小玉",
     "star": 1,
     "path": "kotama",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26002": {
     "name": "朱莉",
     "star": 1,
     "path": "juri",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26003": {
     "name": "芹娜",
     "star": 1,
     "path": "serina",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26004": {
     "name": "志美子",
     "star": 1,
     "path": "shimiko",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26005": {
     "name": "好美",
     "star": 1,
     "path": "yoshimi",
-    "is_limited": [
-      0,
-      0,
-      0
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [0, 0, 0],
+    "is_released": [true, true, true]
   },
   "26006": {
     "name": "和香",
     "star": 1,
     "path": "nodoka",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26007": {
     "name": "绫音（泳装）",
     "star": 1,
     "path": "ayane_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26008": {
     "name": "静子（泳装）",
     "star": 1,
     "path": "shizuko_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26009": {
     "name": "柚子（女仆）",
     "star": 1,
     "path": "yuzu_maid",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26010": {
     "name": "美游（泳装）",
     "star": 1,
     "path": "miyu_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26011": {
     "name": "佐天泪子",
     "star": 1,
     "path": "saten_ruiko",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26012": {
     "name": "桐乃（泳装）",
     "star": 1,
     "path": "kirino_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26013": {
     "name": "亚津子（泳装）",
     "star": 1,
     "path": "atsuko_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26014": {
     "name": "花凛（制服）",
     "star": 1,
     "path": "karin_uniform",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      true
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, true]
   },
   "26015": {
     "name": "一花（泳装）",
     "star": 1,
     "path": "ichika_swimsuit",
-    "is_limited": [
-      2,
-      2,
-      2
-    ],
-    "is_released": [
-      true,
-      true,
-      false
-    ]
+    "is_limited": [2, 2, 2],
+    "is_released": [true, true, false]
   }
 }
