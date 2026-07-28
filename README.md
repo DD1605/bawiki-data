@@ -90,8 +90,10 @@
   "base": {
     // 三星常驻角色数据
     "3": {
-      // 基础出率，2.5 代表 2.5%
-      "chance": 2.5,
+      // 基础出率，3.0 代表 3.0%
+      // 新版插件会优先使用顶层 rate 或 current_pools 中的 rate，
+      // 该字段保留给旧版插件兼容
+      "chance": 3.0,
 
       // 常驻角色在 SchaleDB 中的 ID，会由 Actions 工作流自动生成
       "char": [10000], // ...
@@ -105,12 +107,68 @@
 
     // 一星常驻角色数据，结构同上
     "1": {
-      "chance": 79.0,
+      "chance": 78.5,
       "char": [16000], // ...
     },
   },
 
-  // UP 卡池数据
+  // 按服务器/池类型拆分的基础池。新版插件会优先使用这里
+  "base_pools": {
+    // 普通基础池；Jp/Global 不包含 IsLimited=4 的档案招募老角色
+    "Jp": {
+      "3": {
+        "chance": 3.0,
+        "char": [10034], // ...
+      },
+      "2": {
+        "chance": 18.5,
+        "char": [13000], // ...
+      },
+      "1": {
+        "chance": 78.5,
+        "char": [16000], // ...
+      },
+    },
+
+    // 结构同 Jp
+    "Global": {},
+    "Cn": {},
+
+    // 档案招募基础池；3★ 只包含 IsLimited=4 的老角色，
+    // 1★/2★ 沿用对应服务器普通基础池
+    "JpArchive": {
+      "3": {
+        "chance": 3.0,
+        "char": [10000], // ...
+      },
+      "2": {
+        "chance": 18.5,
+        "char": [],
+      },
+      "1": {
+        "chance": 78.5,
+        "char": [],
+      },
+    },
+
+    // 结构同 JpArchive
+    "GlobalArchive": {},
+  },
+
+  // 默认卡池总出率；普通/PU 池为 3★ 3.0%、2★ 18.5%、1★ 78.5%
+  "rate": {
+    "3": 3.0,
+    "2": 18.5,
+    "1": 78.5,
+  },
+
+  // 默认 UP 出率
+  "up_rate": {
+    "3": 0.7,
+    "2": 3.0,
+  },
+
+  // UP 卡池数据，保留给旧版插件兼容
   "up": {
     // 三星 UP 角色数据
     "3": {
@@ -130,12 +188,92 @@
       // 池子名称，通常为角色名称
       "name": "若藻(泳装)",
 
+      // 服务器：Jp / Global / Cn
+      "server": "Cn",
+
+      // 使用 base_pools 中的哪个基础池
+      "base": "Cn",
+
       // 池子包含的 UP 角色 SchaleDB 中的 ID，可以在下面的链接找到
       // https://github.com/lonqie/SchaleDB/blob/main/data/cn/students.json
       "pool": [10043],
+
+      // 可选，覆盖当前池子的总出率
+      "rate": {
+        "3": 3.0,
+        "2": 18.5,
+        "1": 78.5,
+      },
+
+      // 可选，覆盖当前池子的 UP 出率
+      "up_rate": {
+        "3": 0.7,
+      },
+    },
+
+    {
+      // Fes/周年池示例
+      "name": "Fes：若藻",
+      "server": "Jp",
+      "base": "Jp",
+      "pool": [10033],
+      "rate": {
+        "3": 6.0,
+        "2": 18.5,
+        "1": 75.5,
+      },
+      "up_rate": {
+        "3": 0.7,
+      },
+      // 额外特殊歪出池，从对应星级总概率中扣除；chance 是这一组总概率
+      "extra_pools": [
+        {
+          "name": "Fes限定歪出",
+          "star": 3,
+          "chance": 0.9,
+          "pool": [10045, 10059, 10074],
+          "pickup": false,
+        },
+      ],
     },
   ],
 }
+```
+
+普通同期开两个 3★ Pick-Up 时，应在 `current_pools` 中生成两个池子，
+每个池子的 `pool` 只放自己的 Pick-Up 角色；另一个同期 Pick-Up
+角色会按普通 3★ 歪出处理，不应放入 `extra_pools`。
+
+`extra_pools` 主要用于 Fes/周年池。脚本会在当前 Pick-Up 角色的
+`IsLimited` 类型为 `3` 时自动生成 Fes 池：3★ 总率 6.0%，当前
+Pick-Up 0.7%，其他已实装 Fes 限定角色组成总计 0.9% 的
+`extra_pools`，剩余概率分配给普通 3★。
+
+### `student_id_map.json`
+
+这个文件给手动维护卡池时查学生 ID 用，由 Actions 工作流自动生成。
+也可以手动运行下面的命令单独更新：
+
+```bash
+python -m scripts.pre_deploy.gen_student_id_map
+```
+
+```jsonc
+{
+  "10000": {
+    "name": "爱露",
+    "star": 3,
+    "path": "aru",
+    "is_limited": [4, 4, 0],
+    "is_released": [true, true, true],
+  },
+}
+```
+
+其中 `is_limited` 与 `is_released` 的数组顺序均为：
+
+```text
+[Jp, Global, Cn]
 ```
 
 ### `manga.json`

@@ -19,6 +19,7 @@ WIKI_JSON_PATH = DATA_PATH / "wiki.json"
 EMOJI_JSON_PATH = DATA_PATH / "emoji.json"
 MANGA_JSON_PATH = DATA_PATH / "manga.json"
 GACHA_JSON_PATH = DATA_PATH / "gacha.json"
+STUDENT_ID_MAP_JSON_PATH = DATA_PATH / "student_id_map.json"
 
 
 class Manga(TypedDict):
