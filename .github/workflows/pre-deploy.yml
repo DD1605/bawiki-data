@@ -4,8 +4,9 @@ on:
   push:
     branches: ['main']
   schedule:
-    # 04:00 Asia/Shanghai
-    - cron: '0 20 * * *'
+    # 04:17 Asia/Shanghai. Avoid minute 0 because GitHub may delay or drop
+    # scheduled workflows during top-of-hour load spikes.
+    - cron: '17 20 * * *'
   workflow_dispatch:
     inputs:
       update_gacha:
