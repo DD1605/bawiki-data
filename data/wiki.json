@@ -103,6 +103,9 @@
   },
   "student": {
     "all": "img/student/_all.png",
+    "_マコト(水着)": "img/student/makoto (swimsuit).png",
+    "_サツキ(水着)": "img/student/satsuki (swimsuit).png",
+    "_チアキ(水着)": "img/student/chiaki (swimsuit).png",
     "艾米": "img/student/eimi.png",
     "_艾米(武装)": "img/student/eimi (armed).png",
     "艾米(泳装)": "img/student/eimi (swimsuit).png",
