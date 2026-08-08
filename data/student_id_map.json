@@ -1008,7 +1008,7 @@
     "is_released": [true, false, false]
   },
   "10144": {
-    "name": "瞬（泳装）",
+    "name": "雪玲（泳装）",
     "star": 3,
     "path": "shunling_swimsuit",
     "is_limited": [0, 0, 0],
@@ -1022,17 +1022,24 @@
     "is_released": [true, false, false]
   },
   "10146": {
-    "name": "マコト（水着）",
+    "name": "真琴（泳装）",
     "star": 3,
     "path": "makoto_swimsuit",
     "is_limited": [1, 1, 1],
     "is_released": [true, false, false]
   },
   "10147": {
-    "name": "サツキ（水着）",
+    "name": "皋月（泳装）",
     "star": 3,
     "path": "satsuki_swimsuit",
     "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
+  },
+  "10148": {
+    "name": "伊吕波（泳装）",
+    "star": 3,
+    "path": "iroha_swimsuit",
+    "is_limited": [3, 3, 3],
     "is_released": [true, false, false]
   },
   "13000": {
@@ -1691,7 +1698,7 @@
     "star": 3,
     "path": "akane_uniform",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "20058": {
     "name": "绘梨香",
@@ -1705,6 +1712,13 @@
     "star": 3,
     "path": "mutsuki_dress",
     "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
+  },
+  "20060": {
+    "name": "伊吹（泳装）",
+    "star": 3,
+    "path": "ibuki_swimsuit",
+    "is_limited": [3, 3, 3],
     "is_released": [true, false, false]
   },
   "23000": {
@@ -1883,7 +1897,7 @@
     "is_released": [true, true, false]
   },
   "26016": {
-    "name": "チアキ（水着）",
+    "name": "千明（泳装）",
     "star": 1,
     "path": "chiaki_swimsuit",
     "is_limited": [2, 2, 2],
