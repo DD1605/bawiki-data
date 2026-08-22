@@ -977,14 +977,14 @@
     "star": 3,
     "path": "niko",
     "is_limited": [1, 1, 1],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10140": {
     "name": "胡桃",
     "star": 3,
     "path": "kurumi",
     "is_limited": [1, 1, 1],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10141": {
     "name": "春香（礼服）",
@@ -1292,7 +1292,7 @@
     "star": 1,
     "path": "otogi",
     "is_limited": [2, 2, 2],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "20000": {
     "name": "响",
