@@ -1042,6 +1042,20 @@
     "is_limited": [3, 3, 3],
     "is_released": [true, false, false]
   },
+  "10149": {
+    "name": "ココロ",
+    "star": 3,
+    "path": "kokoro",
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
+  },
+  "10150": {
+    "name": "コトネ",
+    "star": 3,
+    "path": "kotone",
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
+  },
   "13000": {
     "name": "茜",
     "star": 2,
