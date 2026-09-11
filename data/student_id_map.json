@@ -1719,7 +1719,7 @@
     "star": 3,
     "path": "erika",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "20059": {
     "name": "睦月（礼服）",
@@ -1733,6 +1733,13 @@
     "star": 3,
     "path": "ibuki_swimsuit",
     "is_limited": [3, 3, 3],
+    "is_released": [true, false, false]
+  },
+  "20061": {
+    "name": "カスミ（水着）",
+    "star": 3,
+    "path": "kasumi_swimsuit",
+    "is_limited": [0, 0, 0],
     "is_released": [true, false, false]
   },
   "23000": {
