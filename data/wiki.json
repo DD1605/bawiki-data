@@ -103,7 +103,6 @@
   },
   "student": {
     "all": "img/student/_all.png",
-    "_カスミ(水着)": "img/student/kasumi (swimsuit).png",
     "艾米": "img/student/eimi.png",
     "_艾米(武装)": "img/student/eimi (armed).png",
     "艾米(泳装)": "img/student/eimi (swimsuit).png",
@@ -312,6 +311,7 @@
     "未花": "img/student/mika.png",
     "_未花(泳装)": "img/student/mika (swimsuit).png",
     "霞": "img/student/kasumi.png",
+    "_霞(泳装)": "img/student/kasumi (swimsuit).png",
     "夏": "img/student/natsu.png",
     "_夏(乐队)": "img/student/natsu (band).png",
     "响": "img/student/hibiki.png",
@@ -377,6 +377,7 @@
     "紫": "img/student/yukari.png",
     "_紫(泳装)": "img/student/yukari (swimsuit).png",
     "佐天泪子": "img/student/saten ruiko.png",
+    "_カスミ(水着)": "img/student/kasumi (swimsuit).png",
     "_ココロ": "img/student/kokoro.png",
     "_コトネ": "img/student/kotone.png",
     "_マコト(水着)": "img/student/makoto (swimsuit).png",

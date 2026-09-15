@@ -991,7 +991,7 @@
     "star": 3,
     "path": "haruka_dress",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10142": {
     "name": "名草（泳装）",
@@ -1726,7 +1726,7 @@
     "star": 3,
     "path": "mutsuki_dress",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "20060": {
     "name": "伊吹（泳装）",
@@ -1736,7 +1736,7 @@
     "is_released": [true, false, false]
   },
   "20061": {
-    "name": "カスミ（水着）",
+    "name": "霞（泳装）",
     "star": 3,
     "path": "kasumi_swimsuit",
     "is_limited": [0, 0, 0],
