@@ -1057,7 +1057,7 @@
     "is_released": [true, false, false]
   },
   "10151": {
-    "name": "アンナ",
+    "name": "安娜",
     "star": 3,
     "path": "anna",
     "is_limited": [0, 0, 0],
@@ -1750,7 +1750,7 @@
     "is_released": [true, false, false]
   },
   "20062": {
-    "name": "エリナ",
+    "name": "艾莉娜",
     "star": 3,
     "path": "erina",
     "is_limited": [0, 0, 0],
