@@ -79,7 +79,7 @@ async def main():
                 for sa in suffix_alias:
                     org_li.update(f"{sa}{al}" for al in org_alias)
 
-        org_li = list(sort_text_list(list(org_li)))
+        org_li = list(sort_text_list(sorted(org_li)))
         replaced_alias_li[cn_name] = org_li
         print(f"stu_alias: {cn_name}: {'; '.join(org_li)}")
         # await asyncio.sleep(0)
