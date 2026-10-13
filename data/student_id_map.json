@@ -998,7 +998,7 @@
     "star": 3,
     "path": "nagusa_swimsuit",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10143": {
     "name": "瞬（泳装）",
@@ -1060,6 +1060,13 @@
     "name": "安娜",
     "star": 3,
     "path": "anna",
+    "is_limited": [0, 0, 0],
+    "is_released": [true, false, false]
+  },
+  "10152": {
+    "name": "ツムギ",
+    "star": 3,
+    "path": "tsumugi",
     "is_limited": [0, 0, 0],
     "is_released": [true, false, false]
   },
