@@ -1005,21 +1005,21 @@
     "star": 3,
     "path": "shun_swimsuit",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10144": {
     "name": "雪玲（泳装）",
     "star": 3,
     "path": "shunling_swimsuit",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10145": {
     "name": "妃咲（泳装）",
     "star": 3,
     "path": "kisaki_swimsuit",
     "is_limited": [0, 0, 0],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10146": {
     "name": "真琴（泳装）",
@@ -1064,7 +1064,7 @@
     "is_released": [true, false, false]
   },
   "10152": {
-    "name": "ツムギ",
+    "name": "䌷",
     "star": 3,
     "path": "tsumugi",
     "is_limited": [0, 0, 0],
