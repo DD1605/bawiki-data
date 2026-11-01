@@ -1070,6 +1070,13 @@
     "is_limited": [0, 0, 0],
     "is_released": [true, false, false]
   },
+  "10153": {
+    "name": "ヒフミ（レーシング）",
+    "star": 3,
+    "path": "hifumi_racing",
+    "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
+  },
   "13000": {
     "name": "茜",
     "star": 2,
@@ -1763,6 +1770,13 @@
     "is_limited": [0, 0, 0],
     "is_released": [true, false, false]
   },
+  "20063": {
+    "name": "アズサ（レーシング）",
+    "star": 3,
+    "path": "azusa_racing",
+    "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
+  },
   "23000": {
     "name": "爱理",
     "star": 2,
@@ -1942,6 +1956,13 @@
     "name": "千明（泳装）",
     "star": 1,
     "path": "chiaki_swimsuit",
+    "is_limited": [2, 2, 2],
+    "is_released": [true, false, false]
+  },
+  "26017": {
+    "name": "ラナ",
+    "star": 1,
+    "path": "rana",
     "is_limited": [2, 2, 2],
     "is_released": [true, false, false]
   }
