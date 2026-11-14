@@ -1026,14 +1026,14 @@
     "star": 3,
     "path": "makoto_swimsuit",
     "is_limited": [1, 1, 1],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10147": {
     "name": "皋月（泳装）",
     "star": 3,
     "path": "satsuki_swimsuit",
     "is_limited": [1, 1, 1],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10148": {
     "name": "伊吕波（泳装）",
@@ -1957,7 +1957,7 @@
     "star": 1,
     "path": "chiaki_swimsuit",
     "is_limited": [2, 2, 2],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "26017": {
     "name": "ラナ",
