@@ -1040,7 +1040,7 @@
     "star": 3,
     "path": "iroha_swimsuit",
     "is_limited": [3, 3, 3],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "10149": {
     "name": "心",
@@ -1075,6 +1075,13 @@
     "star": 3,
     "path": "hifumi_racing",
     "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
+  },
+  "10154": {
+    "name": "マナミ",
+    "star": 3,
+    "path": "manami",
+    "is_limited": [0, 0, 0],
     "is_released": [true, false, false]
   },
   "13000": {
@@ -1754,7 +1761,7 @@
     "star": 3,
     "path": "ibuki_swimsuit",
     "is_limited": [3, 3, 3],
-    "is_released": [true, false, false]
+    "is_released": [true, true, false]
   },
   "20061": {
     "name": "霞（泳装）",
@@ -1775,6 +1782,13 @@
     "star": 3,
     "path": "azusa_racing",
     "is_limited": [1, 1, 1],
+    "is_released": [true, false, false]
+  },
+  "20064": {
+    "name": "ウララ",
+    "star": 3,
+    "path": "urara",
+    "is_limited": [0, 0, 0],
     "is_released": [true, false, false]
   },
   "23000": {
